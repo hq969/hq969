@@ -26,9 +26,9 @@
         &emsp;
 	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
         &emsp;
-	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="python" width="40" height="40"/> </a>
         &emsp;
-	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="python" width="40" height="40"/> </a>
   
 
 
@@ -58,19 +58,19 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Numpy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40">
+   <img alt="Numpy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
+    <img alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
   </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40">
+   <img alt="Seaborn Logo" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" width="40" height="40">
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Scikit-learn Logo" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" width="40" height="40">
+   <img alt="Scikit-learn Logo" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40">
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -82,14 +82,14 @@
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="PyTorch Logo" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg" width="40" height="40">
+   <img alt="PyTorch Logo" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40">
 <a/>
 </p>
 
 ### 👉 LLMs & Generative AI Frameworks
 
 <a href="https://www.langchain.com/" target="_blank">
-  <img alt="Langchain" src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" width="40" height="40">
+  <img alt="Langchain" src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" width="40" height="40">
 </a>
 
 <a href="https://huggingface.co/" target="_blank">
