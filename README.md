@@ -55,9 +55,6 @@
 
  
 
- 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxxcHg4dnZ5aDBtbWNkeDJyeGMzejRncm1qN283dTFieXdud2d4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
-
  ### 👉 Data Science and Machine Learning
 
 <p align="left"> 
