@@ -102,8 +102,17 @@
 ### 👉 Software & Tools
  
 <p align="left">
- <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer">Tableau</a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">Microsoft Excel</a>
+	&emsp;
+	<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="python" width="40" height="40"/> </a>
+	&emsp;
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/logo_vs-code.svg" alt="python" width="40" height="40"/> </a>
+	&emsp;
+	<a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="python" width="40" height="40"/> </a>
+	&emsp;
+	<a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="python" width="40" height="40"/> </a>
+	&emsp;
+	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" alt="python" width="40" height="40"/> </a>
+	
 
 </p>
 
