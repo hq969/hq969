@@ -56,7 +56,8 @@
  
 
  
- 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
  ### 👉 Data Science and Machine Learning
 
 <p align="left"> 
@@ -89,6 +90,8 @@
    <img alt="PyTorch Logo" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40">
 <a/>
 </p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 👉 LLMs & Generative AI Frameworks
 <p align="left"> 
