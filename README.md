@@ -91,26 +91,28 @@
 </p>
 
 ### 👉 LLMs & Generative AI Frameworks
-
+<p align="left"> 
+&emsp; 
 <a href="https://www.langchain.com/" target="_blank">
   <img alt="Langchain" src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" width="40" height="40">
 </a>
-
+&emsp;
 <a href="https://openai.com/" target="_blank">
   <img alt="openai" src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/openai-black.svg" width="40" height="40">
 </a>
-
+&emsp;
 <a href="https://www.llama.com/" target="_blank">
   <img alt="openai" src="https://github.com/gilbarbara/logos/blob/main/logos/meta-icon.svg" width="40" height="40">
 </a>
-
+&emsp;
 <a href="https://falcons.ai/" target="_blank">
   <img alt="openai" src="https://github.com/detain/svg-logos/blob/master/svg/f/falcon-4.svg" width="40" height="40">
 </a>
-
+&emsp;
 <a href="https://huggingface.co/" target="_blank">
   <img alt="Hugging Face" src="https://huggingface.co/favicon.ico" width="40" height="40">
 </a>
+</p>
 
 
 
