@@ -30,7 +30,7 @@
 
 ### Backend Development
  &emsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="blob:https://github.com/196b83df-d184-4b11-abad-5a91d5b3193f" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
 &emsp;
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> </a>
 &emsp;
