@@ -70,15 +70,15 @@
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Scikit-learn Logo" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40">
+   <img alt="Scikit-learn Logo" src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" width="40" height="40">
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="TensorFlow Logo" src="https://www.tensorflow.org/images/tf_logo_social.png" width="40" height="40">
+   <img alt="TensorFlow Logo" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40">
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="OpenCV Logo" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40">
+   <img alt="OpenCV Logo" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40">
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
