@@ -24,7 +24,12 @@
 	&emsp;
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         &emsp;
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
+        &emsp;
+	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
+        &emsp;
+	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
+  
 
 
 </p>
@@ -77,14 +82,14 @@
   </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="PyTorch Logo" src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40">
+   <img alt="PyTorch Logo" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21~bgwhite.svg" width="40" height="40">
 <a/>
 </p>
 
 ### 👉 LLMs & Generative AI Frameworks
 
 <a href="https://www.langchain.com/" target="_blank">
-  <img alt="Langchain" src="langchain-icon-url" width="40" height="40">
+  <img alt="Langchain" src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg" width="40" height="40">
 </a>
 
 <a href="https://huggingface.co/" target="_blank">
