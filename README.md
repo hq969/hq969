@@ -80,7 +80,7 @@
 
 ### 👉 LLMs & Generative AI Frameworks
 
-<a href="https://langchain.io/" target="_blank">
+<a href="https://www.langchain.com/" target="_blank">
   <img alt="Langchain" src="langchain-icon-url" width="40" height="40">
 </a>
 
