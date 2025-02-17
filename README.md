@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm hq969 </h1>
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzNiNWZpcnlsZjF3YjhqbzF1MnRkbHRmbXh1c2d1MG1hbGhnZWc2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" width="220" alt="giphy">
 
 <br>
 
@@ -24,7 +24,7 @@
 	&emsp;
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         &emsp;
-	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg" alt="python" width="40" height="40"/> </a>
+	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="python" width="40" height="40"/> </a>
         &emsp;
 	<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="python" width="40" height="40"/> </a>
         &emsp;
@@ -92,6 +92,18 @@
   <img alt="Langchain" src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" width="40" height="40">
 </a>
 
+<a href="https://openai.com/" target="_blank">
+  <img alt="openai" src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/openai-black.svg" width="40" height="40">
+</a>
+
+<a href="https://www.llama.com/" target="_blank">
+  <img alt="openai" src="https://github.com/gilbarbara/logos/blob/main/logos/meta-icon.svg" width="40" height="40">
+</a>
+
+<a href="https://falcons.ai/" target="_blank">
+  <img alt="openai" src="https://github.com/detain/svg-logos/blob/master/svg/f/falcon-4.svg" width="40" height="40">
+</a>
+
 <a href="https://huggingface.co/" target="_blank">
   <img alt="Hugging Face" src="https://huggingface.co/favicon.ico" width="40" height="40">
 </a>
@@ -112,6 +124,10 @@
 	<a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="python" width="40" height="40"/> </a>
 	&emsp;
 	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" alt="python" width="40" height="40"/> </a>
+	&emsp;
+	<a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg" alt="python" width="40" height="40"/> </a>
+
+ 
 	
 
 </p>
