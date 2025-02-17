@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm hq969 </h1>
 </p>
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUzNzR4cWtkaDh4YTFjazA3cHVmZWxmbmthd2wzMnU4ZnkxcGJ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" width="1000" alt="giphy">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUzNzR4cWtkaDh4YTFjazA3cHVmZWxmbmthd2wzMnU4ZnkxcGJ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IyeheChYxx2byDu/giphy.gif" width="500" alt="giphy">
 
 <br>
 
