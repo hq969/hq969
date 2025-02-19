@@ -2,7 +2,7 @@
   <img src="./assets/border-separator.gif" width="100%">
   <div align="center">
   <img src="./assets/animated-flame-1.gif" align="left" width="20px">
-  <a href="https://git.io/typing-svg"><img alt='typingsvg' src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=35&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1000%2B+Hours+of+code+this+year;I+love+programming+remotely"  /></a>
+  <a href="https://git.io/typing-svg"><img alt='typingsvg' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+!;I'm+Harsh+Sonkar;AKA+hq969;Passionate+Full-Stack+Developer+;1000%2B+Hours+of+Code+this+year;I+love+programming+remotely)](https://git.io/typing-svg)"  /></a>
   <img src="./assets/animated-flame-1.gif" align="right" width="20px">
   </div>
   <img src="./assets/border-separator.gif" width="100%">
