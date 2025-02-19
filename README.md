@@ -1,173 +1,120 @@
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm hq969 </h1>
-</p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
+  <img src="./assets/border-separator.gif" width="100%">
+  <div align="center">
+  <img src="./assets/animated-flame-1.gif" align="left" width="20px">
+  <a href="https://git.io/typing-svg"><img alt='typingsvg' src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=35&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1000%2B+Hours+of+code+this+year;I+love+programming+remotely"  /></a>
+  <img src="./assets/animated-flame-1.gif" align="right" width="20px">
+  </div>
+  <img src="./assets/border-separator.gif" width="100%">
+<!-- Social media Icons -->
+<h1 align="center">Hi 👋, I'm Harsh Sonkar aka hq969</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<div align="center" >
+  <h2> 💰 You can help me by Donating </h2>
+
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adi8090808E) 
+
+  <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif" width="100%" >
+</div>
+
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/PowerLevel9000/count.svg" />
+
+
+# 💫 About Me:
+🔭 I’m currently working on microverse projects<br><br>
+🌱 I’m currently learning full stack<br><br>
+👨‍💻 All of my projects are available at <a href="https://adarsh-powerlevel9000.netlify.app/">Personal Portfolio</a><br><br>
+💬 Ask me about video games<br><br>
+📫 How to reach me <a href="mailto:adi8090808766@gmail.com">mail me</a><br><br>
+🌐 Do check my <a href='https://www.hackerrank.com/adi8090808766'>Hacker-Rank</a> and <a href='https://www.freecodecamp.org/fcc8df47529-8247-491e-ba8d-15799509376f'>FreeCodeCamp</a> profile<br><br>
+⚡ Fun fact I have two eyes
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/%C3%82d%C3%A0rsh-P%C3%A1th%C3%A3k/100010279544328/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarsh8090adi?igshid=YmMyMTA2M2Y=) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pathak-56a831256/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PowerLevel9002?t=AIuSN7mTxk5a_MWpLolEjA&s=09) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCG9gq2kcKFYx08NFii4oJAA)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%10034B7F1.svg?logo=WhatsApp&logoColor=white)](http://wa.me/917068731136)
+[![slack](https://img.shields.io/badge/Slack-%23E01E5A.svg?logo=Slack&logoColor=white)](https://microverse-students.slack.com/team/U04AWFHRUN5)
+
+# 💻 Tech Stack:
+### 🧑‍💻 Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 <br>
 
-
-## :sassy_man:  About me
-- :technologist: I am a 'Electrical Engineer', 'Generative AI Engineer', 'Full Stack Data Scientist', 'Data Analyst' and 'Technical Writer'
-- :technologist: I love using Software as a solution for 'Problems'
-- 📝 I have a strong foundation and interest in 'Artificial Intelligence' and 'Machine Learning' 
-- :student: My other Stacks: 'Machine Learning Engineering', 'Deep Learning', 'Computer Vision', and 'Natural Language Processing'
-- :nerd_face: Always 'learning new things and growing'
-
+### 🪟 Framework  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
 <br>
 
-<br>
+### 📲 Data Science Stack
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
+<br><br>
+# ⚒️ Tool Stack:
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23111111.svg?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F24E1E.svg?style=flat&logo=git&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 
 
-## 🛠 My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<br><br>
+<h1> 📊 GitHub Stats:</h1>
+<div align="center">
+<img alt='' width="60%" src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"><br>
+<img alt='' width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=dracula&hide_border=false"><br>
+<img alt='' width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div><hr>
 
-### 👉 Programming Languages
-<p align="left">
-	&emsp;
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-        &emsp;
-	<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="python" width="40" height="40"/> </a>
-        &emsp;
-	<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="python" width="40" height="40"/> </a>
-        &emsp;
-	<a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="python" width="40" height="40"/> </a>
-  
+### GitHub Activity
+
+<!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
+
+<!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [tssovi/grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview)
+2. ⬆️ Pushed 16 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+3. 🎉 Merged PR [#5](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/5) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+4. 💪 Opened PR [#5](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/5) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/thinkify-labs-takeaway](https://github.com/PowerLevel9000/thinkify-labs-takeaway)
+<!--RECENT_ACTIVITY:end-->
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PowerLevel9000&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## ✍️ Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+</div>
+
+## 🧑‍💻 Working Mood
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
+</div>
+
+
+  <img src="./assets/border-separator.gif" width="100%">
+  <div align="center">
+  <img src="./assets/animated-flame-1.gif" align="left" width="20px">
+  <a href="mailto:adi8090808766@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=35&pause=1000&lines=Reach+Out!+To+Me;With+LinkedIn+And+Mail" alt="" /></a>
+  <img src="./assets/animated-flame-1.gif" align="right" width="20px">
+  </div>
+  <img src="./assets/border-separator.gif" width="100%">
 </p>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-### Backend Development
- &emsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> </a>
-&emsp;
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" alt="flask" width="40" height="40"/> </a>
-&emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  &emsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-  &emsp;
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="mysql" width="40" height="40"/> </a>
- &emsp;
- <a href="https://www.php.net/downloads.php" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="mysql" width="40" height="40"/> </a>
-
- 
-
- ### 👉 Data Science and Machine Learning
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Numpy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
-  </a> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Seaborn Logo" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Scikit-learn Logo" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="TensorFlow Logo" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="OpenCV Logo" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40">
-  </a>
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="PyTorch Logo" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40">
-<a/>
-</p>
-
-
-
-### 👉 LLMs & Generative AI Frameworks
-<p align="left"> 
-&emsp; 
-<a href="https://www.langchain.com/" target="_blank">
-  <img alt="Langchain" src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" width="40" height="40">
-</a>
-&emsp;
-<a href="https://openai.com/" target="_blank">
-  <img alt="openai" src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/openai-black.svg" width="40" height="40">
-</a>
-&emsp;
-<a href="https://www.llama.com/" target="_blank">
-  <img alt="openai" src="https://github.com/gilbarbara/logos/blob/main/logos/meta-icon.svg" width="40" height="40">
-</a>
-&emsp;
-<a href="https://falcons.ai/" target="_blank">
-  <img alt="openai" src="https://github.com/detain/svg-logos/blob/master/svg/f/falcon-4.svg" width="40" height="40">
-</a>
-&emsp;
-<a href="https://huggingface.co/" target="_blank">
-  <img alt="Hugging Face" src="https://huggingface.co/favicon.ico" width="40" height="40">
-</a>
-</p>
-
-
-
-
-### 👉 Software & Tools
- 
-<p align="left">
-	&emsp;
-	<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg" alt="python" width="40" height="40"/> </a>
-	&emsp;
-	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/benc-uk/icon-collection/blob/master/azure-docs/logo_vs-code.svg" alt="python" width="40" height="40"/> </a>
-	&emsp;
-	<a href="https://codepen.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="python" width="40" height="40"/> </a>
-	&emsp;
-	<a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="python" width="40" height="40"/> </a>
-	&emsp;
-	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" alt="python" width="40" height="40"/> </a>
-	&emsp;
-	<a href="https://leetcode.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/leetcode.svg" alt="python" width="40" height="40"/> </a>
-
- 
-	
-
-</p>
-
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/hq969/github-readme-stats"><img alt="hq969's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hq969&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hq969&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hq969" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/HarshSonkar24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HarshSonkar24" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harsh-sonkar-232573250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh Sonkar" height="30" width="40" /></a>
-<a href="https://lungcancer.hashnode.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #2962FF; font-weight: bold; font-size: 16px; margin-right: 10px;">
-  Hashnode Blog
-</a>
-
-<a href="https://medium.com/@hq969" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #03A87C; font-weight: bold; font-size: 16px;">
-  Medium Profile
-</a>
-
-
-</p>
