@@ -10,10 +10,12 @@
 
 
 ---
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpsdzc5N2dhdjNjMGFjYW5vZzVpb2J5ampqdnU1N3AyZncxZnoybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="giphy">
 
 
 ## 🧠 Profile
+
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpsdzc5N2dhdjNjMGFjYW5vZzVpb2J5ampqdnU1N3AyZncxZnoybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="180" alt="giphy">
+
 
 ```yaml
 Name: Harsh Sonkar
