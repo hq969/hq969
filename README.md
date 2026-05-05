@@ -15,7 +15,7 @@
 
 ## 🧠 Profile
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djljdHE0c3BoMXFqOGIyYjFmNW8yaWZtbXNtNzBocDcwMHpmZDYwZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L7AIyTuXaszW3shL0F/giphy.gif" width="180" alt="giphy">
+<img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3ZTRzbGx2dGNndGp6bjN2OXJyNHNwMHk4MDV6bmpnbTB1bmttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="300" alt="giphy">
 
 
 ```yaml
@@ -32,7 +32,7 @@ Focused on solving real-world problems — not just training models.
 
 ## ⚡ What I Actually Do
 
-<img align='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFtazhwc2szaHowZzdjaGltMHBuYXAzNzAxc2FtOWN0YmtoMWw4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln94vHEVEaM4Stopcj/giphy.gif" width="900" alt="giphy">
+<img align='right' src="" width="900" alt="giphy">
 
 
 
