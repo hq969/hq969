@@ -32,6 +32,10 @@ Focused on solving real-world problems — not just training models.
 
 ## ⚡ What I Actually Do
 
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djljdHE0c3BoMXFqOGIyYjFmNW8yaWZtbXNtNzBocDcwMHpmZDYwZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L7AIyTuXaszW3shL0F/giphy.gif" width="180" alt="giphy">
+
+
+
 * 🤖 Build **LLM-powered apps & AI agents**
 * 📊 Design **data pipelines & analytics systems**
 * ⚙️ Develop **production-grade backend systems**
