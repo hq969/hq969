@@ -87,8 +87,9 @@ Focused on solving real-world problems — not just training models.
 ## 📊 GitHub Signals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hq969&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hq969&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hq969&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hq969&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc" height="170" alt="top langs" />
+
 </p>
 
 <p align="center">
