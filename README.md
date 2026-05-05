@@ -14,7 +14,7 @@
 
 ## 🧠 Profile
 
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpsdzc5N2dhdjNjMGFjYW5vZzVpb2J5ampqdnU1N3AyZncxZnoybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="giphy">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQyNzJ3M3M4c2tlbDR6MnVpdHF0eXg1Y2swNm5ka3FheHRuY3E0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dBlZwFc1QjzXseX7aT/giphy.gif" width="350" alt="giphy">
 
 
 ```yaml
