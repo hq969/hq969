@@ -13,7 +13,7 @@
 ---
 
 
-## 🧠 Profile <img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3ZTRzbGx2dGNndGp6bjN2OXJyNHNwMHk4MDV6bmpnbTB1bmttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="300" alt="giphy">
+## 🧠 Profile <img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3ZTRzbGx2dGNndGp6bjN2OXJyNHNwMHk4MDV6bmpnbTB1bmttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="40" alt="giphy">
 
 
 ```yaml
