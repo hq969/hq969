@@ -42,7 +42,8 @@ Focused on solving real-world problems — not just training models.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXdqdmM0eDZqemFsdzZ6NW8xZXl4bzF1N20xMzZxYjgwdmd6emRkeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26DMYP0EVbUkHLQVG/giphy.gif" width="50" alt="giphy">
+
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2o0NG9heXNoYm55YXEwNm15anNsNGpzMnB6ZndnY3lvMnRsOTcxNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fxNrcjA9OycHAjpA7x/giphy.gif" width="300" alt="giphy">
 
 
