@@ -13,7 +13,7 @@
 ---
 
 
-## 🧠 Profile <img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3ZTRzbGx2dGNndGp6bjN2OXJyNHNwMHk4MDV6bmpnbTB1bmttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="100" alt="giphy">
+## 🧠 Profile <img align='center' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3ZTRzbGx2dGNndGp6bjN2OXJyNHNwMHk4MDV6bmpnbTB1bmttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="80" alt="giphy">
 
 
 ```yaml
@@ -28,7 +28,7 @@ Focused on solving real-world problems — not just training models.
 
 ---
 
-## ⚡ What I Actually Do  <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTNmb3Ixempibmhhb3Y2Mjd5Nnc3dmIxODc4MGh0czBibHBsNGI5ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="50" alt="giphy">
+## ⚡ What I Actually Do  <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTNmb3Ixempibmhhb3Y2Mjd5Nnc3dmIxODc4MGh0czBibHBsNGI5ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="80" alt="giphy">
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzV3cnB4cmY0encwam13NHpxeW1ydXoyMnExZGw4bnA0NGliNHBpaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="190" alt="giphy">
 
@@ -42,7 +42,7 @@ Focused on solving real-world problems — not just training models.
 
 ---
 
-## 🛠️ Tech Stack <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXdqdmM0eDZqemFsdzZ6NW8xZXl4bzF1N20xMzZxYjgwdmd6emRkeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26DMYP0EVbUkHLQVG/giphy.gif" width="50" alt="giphy">
+## 🛠️ Tech Stack <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXdqdmM0eDZqemFsdzZ6NW8xZXl4bzF1N20xMzZxYjgwdmd6emRkeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26DMYP0EVbUkHLQVG/giphy.gif" width="80" alt="giphy">
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2o0NG9heXNoYm55YXEwNm15anNsNGpzMnB6ZndnY3lvMnRsOTcxNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fxNrcjA9OycHAjpA7x/giphy.gif" width="300" alt="giphy">
 
