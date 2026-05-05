@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=600&lines=Harsh+Sonkar;AI+Engineer+%7C+Data+Scientist;Building+Intelligent+Systems+⚡" />
 </h1>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djljdHE0c3BoMXFqOGIyYjFmNW8yaWZtbXNtNzBocDcwMHpmZDYwZSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/L7AIyTuXaszW3shL0F/giphy.gif" width="180" alt="giphy">
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Data-00F5FF?style=for-the-badge"/>
