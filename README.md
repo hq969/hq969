@@ -30,7 +30,7 @@ Focused on solving real-world problems — not just training models.
 
 ## ⚡ What I Actually Do  <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTNmb3Ixempibmhhb3Y2Mjd5Nnc3dmIxODc4MGh0czBibHBsNGI5ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="80" alt="giphy">
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDQ5emVieGoxZXk0a3dwOHNqY2dhMW4xdW1yM3U0Mm90eTB4enBmNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y3wH0icDeRfaS8Of7l/giphy.gif" width="190" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g3dHU5a2k2MjZvaHBjejlrMGJzbjZ6Nndham5vaGRoczN0bW5jYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fXhWTNb6CSXwytpIBW/giphy.gif" width="180" alt="giphy">
 
 
 
@@ -44,7 +44,7 @@ Focused on solving real-world problems — not just training models.
 
 ## 🛠️ Tech Stack <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXdqdmM0eDZqemFsdzZ6NW8xZXl4bzF1N20xMzZxYjgwdmd6emRkeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26DMYP0EVbUkHLQVG/giphy.gif" width="80" alt="giphy">
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDQ5emVieGoxZXk0a3dwOHNqY2dhMW4xdW1yM3U0Mm90eTB4enBmNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XW9jUNC38Q4sEtwXPh/giphy.gif" width="300" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g3dHU5a2k2MjZvaHBjejlrMGJzbjZ6Nndham5vaGRoczN0bW5jYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIpQfylTT3qm07N8Gn/giphy.gif" width="300" alt="giphy">
 
 
 ### Core
