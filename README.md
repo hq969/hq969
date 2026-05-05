@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/Mindset-Ship%20Fast%20⚡-blue?style=for-the-badge"/>
 </p>
 
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpsdzc5N2dhdjNjMGFjYW5vZzVpb2J5ampqdnU1N3AyZncxZnoybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="giphy">
-
 
 ---
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpsdzc5N2dhdjNjMGFjYW5vZzVpb2J5ampqdnU1N3AyZncxZnoybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="220" alt="giphy">
+
 
 ## 🧠 Profile
 
