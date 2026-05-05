@@ -30,7 +30,7 @@ Focused on solving real-world problems — not just training models.
 
 ## ⚡ What I Actually Do  <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTNmb3Ixempibmhhb3Y2Mjd5Nnc3dmIxODc4MGh0czBibHBsNGI5ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="80" alt="giphy">
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2g3dHU5a2k2MjZvaHBjejlrMGJzbjZ6Nndham5vaGRoczN0bW5jYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fXhWTNb6CSXwytpIBW/giphy.gif" width="145" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmR2d2hqN3A2cmdlN28ydnhwYXNvNnAyeGkzb2p6dWdwa2NhY2hhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PRjOfXMsyJuN7kQGla/giphy.gif" width="145" alt="giphy">
 
 
 
