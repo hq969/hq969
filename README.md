@@ -43,6 +43,8 @@ Focused on solving real-world problems — not just training models.
 ---
 
 ## 🛠️ Tech Stack
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHB1d2JyNTZ3eTR5eHdkMDdoNXV2eHN5ZWY1a3JnYmlremdwMWdzNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PoHs1Ne8rcMuZRJted/giphy.gif" width="600" alt="giphy">
+
 
 ### Core
 
@@ -55,9 +57,6 @@ Focused on solving real-world problems — not just training models.
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql" />
 </p>
-
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHB1d2JyNTZ3eTR5eHdkMDdoNXV2eHN5ZWY1a3JnYmlremdwMWdzNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PoHs1Ne8rcMuZRJted/giphy.gif" width="600" alt="giphy">
-
 
 
 ### AI / ML
