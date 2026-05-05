@@ -107,7 +107,7 @@ Focused on solving real-world problems — not just training models.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hq969&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amc5dHdyeWwyZzByY2hxYmF2Z3U2bjBxdXl4Y2E4cXlpYWNxNzVoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nvb74G5HEcQhoah9Hv/giphy.gif" width="300" alt="giphy">
+<img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amc5dHdyeWwyZzByY2hxYmF2Z3U2bjBxdXl4Y2E4cXlpYWNxNzVoaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nvb74G5HEcQhoah9Hv/giphy.gif" width="900" alt="giphy">
 
 ---
 
