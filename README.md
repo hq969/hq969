@@ -30,7 +30,7 @@ Focused on solving real-world problems — not just training models.
 
 ## ⚡ What I Actually Do
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWRiYTVjMXdncmFnY21pem93MHdtd2F2c2U4ZXhwdDY5Y2UwaTNxYiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3IqEvVpFUMmll1h5Ri/giphy.gif" width="200" alt="giphy">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzV3cnB4cmY0encwam13NHpxeW1ydXoyMnExZGw4bnA0NGliNHBpaSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif" width="190" alt="giphy">
 
 
 
@@ -55,6 +55,10 @@ Focused on solving real-world problems — not just training models.
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql" />
 </p>
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHB1d2JyNTZ3eTR5eHdkMDdoNXV2eHN5ZWY1a3JnYmlremdwMWdzNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/PoHs1Ne8rcMuZRJted/giphy.gif" width="600" alt="giphy">
+
+
 
 ### AI / ML
 
