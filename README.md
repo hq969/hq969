@@ -10,13 +10,27 @@
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXZidGd5NTB1bWNiNDNlZXM1dW40dzh2ZzYzZzQzbHFqZDNkbG1qYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/EruZaPOld5NDhql2nX/giphy.gif"
-       width="500"
-       height="300"
-    alt="giphy">
-</p>
-
+<table align="center">
+  <tr>
+    <td align="left">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+           width="220"
+           alt="left gif">
+    </td>
+    
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7WTG4gQ2kL4qALqU/giphy.gif"
+           width="220"
+           alt="center gif">
+    </td>
+    
+    <td align="right">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+           width="220"
+           alt="right gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
