@@ -46,8 +46,8 @@ Focused on solving real-world problems — not just training models.
 
 <img align="right"
      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzVyNGp2eXUwNjd5ZGY0amxnaTc5bHhrdm5rNW4yM2k2bm9uOGJyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWday3G09ANWLPRAqg/giphy.gif"
-     width="300"
-     height="300"
+     width="900"
+     height="900"
      alt="giphy">
 
 ### Core
