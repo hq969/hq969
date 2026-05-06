@@ -9,11 +9,12 @@
   <img src="https://img.shields.io/badge/Mindset-Ship%20Fast%20⚡-blue?style=for-the-badge"/>
 </p>
 
----
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGJhcGJuenNnZXZuNm9vMHN6ZmVyaG81a2c4bzZ0Y3doaTJ6ZmpmMSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/3o7WTG4gQ2kL4qALqU/giphy.gif"
        width="200"
-       alt="giphy">
+       height="300"
+    alt="giphy">
 </p>
 
 
