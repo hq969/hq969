@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXZidGd5NTB1bWNiNDNlZXM1dW40dzh2ZzYzZzQzbHFqZDNkbG1qYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/EruZaPOld5NDhql2nX/giphy.gif"
-       width="300"
-       height="200"
+       width="500"
+       height="300"
     alt="giphy">
 </p>
 
