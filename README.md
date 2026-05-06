@@ -30,9 +30,6 @@ Focused on solving real-world problems — not just training models.
 
 ## ⚡ What I Actually Do  <img align='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTNmb3Ixempibmhhb3Y2Mjd5Nnc3dmIxODc4MGh0czBibHBsNGI5ayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" width="50" alt="giphy">
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2M2NWZ5aDBjaTNyNzAyeXY0bmd3dWkwbXMxZXV0d2NxOXRpcTZyeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26tOY3KjQUL9YhRT2/giphy.gif" width="140" alt="giphy">
-
-
 
 * 🤖 Build **LLM-powered apps & AI agents**
 * 📊 Design **data pipelines & analytics systems**
@@ -99,10 +96,6 @@ Focused on solving real-world problems — not just training models.
 
 ## 📊 GitHub Signals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hq969&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hq969&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hq969&theme=tokyonight&hide_border=true"/>
